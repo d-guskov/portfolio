@@ -11,6 +11,7 @@ I am a dedicated and enthusiastic Data Scientist with a strong background in Bus
 - **Email:** [d.guskov@web.de](mailto:d.guskov@web.de)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/dmitry-guskov)
 - **GitHub:** [GitHub Profile](https://github.com/dvodka)
+- **CV:** [Link](https://github.com/dvodka/portfolio_2023/blob/e9c8a0a981c66d84dc8736b268dd8b906c5f3a36/CV_2023.pdf)
 
 ## Projects
 
@@ -43,11 +44,5 @@ Developed a web scraper to gather available doctors' data in each city from a pr
 I created interactive data visualizations using Tableau to showcase key insights from a retail dataset. Through visual storytelling, I effectively communicated trends and patterns to both technical and non-technical audiences. This project highlights my data visualization skills and ability to convey complex information in an engaging manner.
 
 - **Skills:** Data Visualization, Tableau, Storytelling
-
-
-## Certifications
-
-- **Data Science Certification:** [Certifying Body](https://www.certificationlink.com)
-- **Machine Learning Fundamentals:** [Certifying Body](https://www.certificationlink.com)
 
 Thank you for visiting my portfolio. I'm excited about the opportunity to contribute my skills and expertise to data-driven projects and to continue learning and growing in the field of Data Science. If you have any questions or would like to collaborate, please don't hesitate to get in touch!
