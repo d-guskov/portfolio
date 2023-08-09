@@ -51,3 +51,5 @@ Thank you for visiting my portfolio. I'm excited about the opportunity to contri
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You are free to view and share this work non-commercially, but you cannot create derivative works or use it for commercial purposes.
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />
+
