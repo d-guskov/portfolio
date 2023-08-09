@@ -46,3 +46,8 @@ I created interactive data visualizations using Tableau to showcase key insights
 - **Skills:** Data Visualization, Tableau, Storytelling
 
 Thank you for visiting my portfolio. I'm excited about the opportunity to contribute my skills and expertise to data-driven projects and to continue learning and growing in the field of Data Science. If you have any questions or would like to collaborate, please don't hesitate to get in touch!
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You are free to view and share this work non-commercially, but you cannot create derivative works or use it for commercial purposes.
+
