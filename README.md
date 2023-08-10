@@ -15,7 +15,7 @@ I am a dedicated and enthusiastic Data Scientist with a strong background in Bus
 
 ## Projects
 
-### 1. Virus Spread Simulation & Animation
+### 1. [Virus Spread Simulation & Animation](https://github.com/dvodka/portfolio_2023/tree/2b6b4a0b6869dde1c4eb480ba9d1a81868fb226d/project_1)
 
 In this project, I developed a virus spread simulation using object-oriented programming principles. I utilized Matplotlib to create animated visualizations that effectively demonstrated the dynamics of virus propagation. By applying my programming skills and data visualization techniques, I was able to provide an insightful and educational tool for understanding the spread of infectious diseases.
 
