@@ -19,19 +19,25 @@ I am a dedicated and enthusiastic Data Scientist with a strong background in Bus
 
 In this project, I developed a virus spread simulation using object-oriented programming principles. I utilized Matplotlib to create animated visualizations that effectively demonstrated the dynamics of virus propagation. By applying my programming skills and data visualization techniques, I was able to provide an insightful and educational tool for understanding the spread of infectious diseases.
 
-- **Skills:** Object-oriented Programming, Matplotlib, Data Visualisation
+- **Skills:** Object-oriented Programming, Data Visualisation with Matplotlib
 
 ### 2. News Headlines Search Engine
 
 For this project, I performed analysis on news articles to extract relevant trends and insights. To make it user-friendly, I created a simple widget using wxPython and integrated the results with Google Sheets for easy access and collaboration. By leveraging NLTK and spaCy for data cleaning and text analysis, I enabled users to efficiently navigate and discover important information within news headlines.
 
-- **Skills:** NLTK, spaCy, wxPython, Google Cloud Console, Text Analysis
+- **Skills:** Data Cleaning and Text Analysis with NLTK and spaCy, UI with wxPython, Data Storing with Google Cloud Console
 
 ### 3. German Govt. Portal Scraper
 
-In this project, I developed a simple web scraper targeting the German government portal that provides information about insolvency proceedings and announcements. By utilizing Pandas for data manipulation and cleaning, as well as Selenium and BeautifulSoup for web scraping, I efficiently collected and organized relevant data. The project also involved creating pivots and visualizations to derive meaningful insights from the gathered information.
+In this project, I developed a data analysis solution using Python to uncover insights from the German government portal's data on insolvency proceedings and announcements. I utilized web scraping tools like Selenium and BeautifulSoup to efficiently collect relevant data. Using Pandas, I organized and cleaned the data for meaningful analysis.
 
-- **Skills:** Pandas, Selenium, BeautifulSoup, Database Management
+By enriching the dataset with information about the population of cities and regions, I created insightful visualizations to better understand the insolvency landscape. These visualizations, including bar charts and geographical scatter plots, provide a clear overview of insolvency rates and counts across cities and states in Germany.
+
+To ensure a lightweight and efficient testing process, I chose Plotly's visualizations, which offer interactivity and easy exploration of the geospatial data. This approach allowed me to quickly generate visual representations of insolvency data on a map and gain insights into regional trends.
+
+In essence, this project exemplifies a simple case of step-by-step process of gaining, cleaning, manipulating, analyzing, and visualizing data.
+
+- **Skills:** Data Scraping with Selenium and BeautifulSoup, Data Manipulation with Pandas, Data Visualisation Plotly and Matplotlib
 
 ### 4. German Doctor Availability Statistics
 
