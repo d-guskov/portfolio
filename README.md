@@ -21,13 +21,7 @@ In this project, I developed a virus spread simulation using object-oriented pro
 
 - **Skills:** Object-oriented Programming, Data Visualisation with Matplotlib
 
-### 2. News Headlines Search Engine
-
-For this project, I performed analysis on news articles to extract relevant trends and insights. To make it user-friendly, I created a simple widget using wxPython and integrated the results with Google Sheets for easy access and collaboration. By leveraging NLTK and spaCy for data cleaning and text analysis, I enabled users to efficiently navigate and discover important information within news headlines.
-
-- **Skills:** Data Cleaning and Text Analysis with NLTK and spaCy, UI with wxPython, Data Storing with Google Cloud Console
-
-### 3. German Govt. Portal Scraper
+### 2. German Govt. Portal Scraper
 
 In this project, I developed a data analysis solution using Python to uncover insights from the German government portal's data on insolvency proceedings and announcements. I utilized web scraping tools like Selenium and BeautifulSoup to efficiently collect relevant data. Using Pandas, I organized and cleaned the data for meaningful analysis.
 
@@ -37,7 +31,13 @@ To ensure a lightweight and efficient testing process, I chose Plotly's visualiz
 
 In essence, this project exemplifies a simple case of step-by-step process of gaining, cleaning, manipulating, analyzing, and visualizing data.
 
-- **Skills:** Data Scraping with Selenium and BeautifulSoup, Data Manipulation with Pandas, Data Visualisation Plotly and Matplotlib
+- **Skills:** Data Scraping with Selenium and BeautifulSoup, Data Manipulation with Pandas, Data Visualisation with Plotly and Matplotlib
+
+### 3. News Headlines Search Engine
+
+For this project, I performed analysis on news articles to extract relevant trends and insights. To make it user-friendly, I created a simple widget using wxPython and integrated the results with Google Sheets for easy access and collaboration. By leveraging NLTK and spaCy for data cleaning and text analysis, I enabled users to efficiently navigate and discover important information within news headlines.
+
+- **Skills:** Data Cleaning and Text Analysis with NLTK and spaCy, UI with wxPython, Data Storing with Google Cloud Console
 
 ### 4. German Doctor Availability Statistics
 
