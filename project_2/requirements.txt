@@ -1,0 +1,10 @@
+re
+numpy
+pandas
+seaborn
+plotly
+matplotlib
+PyQt5
+selenium
+beautifulsoup4
+webdriver_manager
