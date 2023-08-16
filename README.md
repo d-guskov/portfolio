@@ -21,7 +21,7 @@ In this project, I developed a virus spread simulation using object-oriented pro
 
 - **Skills:** Object-oriented Programming, Data Visualisation with Matplotlib
 
-### 2. German Govt. Portal Scraper
+### 2. [German Govt. Portal Scraper](https://github.com/dvodka/portfolio_2023/tree/9398fd7bfba0cb2d6fadc3e42ad9457c6ed781d8/project_2)
 
 In this project, I developed a data analysis solution using Python to uncover insights from the German government portal's data on insolvency proceedings and announcements. I utilized web scraping tools like Selenium and BeautifulSoup to efficiently collect relevant data. Using Pandas, I organized and cleaned the data for meaningful analysis.
 
