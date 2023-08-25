@@ -11,7 +11,7 @@ I am a dedicated and enthusiastic Data Scientist with a strong background in Bus
 - **Email:** [d.guskov@web.de](mailto:d.guskov@web.de)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/dmitry-guskov)
 - **GitHub:** [GitHub Profile](https://github.com/dvodka)
-- **CV:** [Link](https://github.com/dvodka/portfolio_2023/blob/03c82741f5acbd2377f08c36d755396a02fe6d75/CV_2023.pdf)
+- **CV:** [Link](https://github.com/dvodka/portfolio_2023/blob/2572e94ddb3f43f027cd0872ebd2876e897c3b3c/CV_2023_EN.pdf)
 
 ## Projects
 
