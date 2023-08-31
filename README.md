@@ -33,25 +33,22 @@ In essence, this project exemplifies a simple case of step-by-step process of ga
 
 - **Skills:** Data Scraping with Selenium and BeautifulSoup, Data Manipulation with Pandas, Data Visualisation with Plotly and Matplotlib
 
-### 3. News Headlines Search Engine
 
-For this project, I performed analysis on news articles to extract relevant trends and insights. To make it user-friendly, I created a simple widget using wxPython and integrated the results with Google Sheets for easy access and collaboration. By leveraging NLTK and spaCy for data cleaning and text analysis, I enabled users to efficiently navigate and discover important information within news headlines.
+### 3. [Twitter Sentiment Analysis](https://github.com/dvodka/portfolio_2023/tree/4ea1cbef7dc40bee8a6e258b821822a0881a3387/project_3)
 
-- **Skills:** Data Cleaning and Text Analysis with NLTK and spaCy, UI with wxPython, Data Storing with Google Cloud Console
+In this project, I tackled the task of Twitter sentiment analysis using natural language processing (NLP) techniques. The goal was to determine the sentiment (positive, neutral, or negative) expressed in a collection of tweets. Sentiment analysis is a valuable application of NLP that has a wide range of applications, from brand monitoring to public opinion tracking.
 
-### 4. German Doctor Availability Statistics
+I leveraged the power of the spaCy library to preprocess the text data, which involved lowercasing, removal of special characters, URLs, mentions, and filtering out non-noun words. The dataset was loaded from a CSV file, missing values were handled, and sentiment labels were mapped.
 
-Developed a web scraper to gather available doctors' data in each city from a prominent German online platform used for booking doctor's appointments, organizing the scraped data for further analysis and potential insights. 
+After preparing the dataset, I split it into training and testing sets and vectorized the text data using the CountVectorizer. I then trained two different classifiers: a Support Vector Machine (SVM) and a Random Forest Classifier. The accuracy of each classifier was evaluated using the test dataset.
 
-- **Skills:** Pandas, Selenium, BeautifulSoup, Database Management
+Finally, I showcased the trained classifiers by predicting the sentiment labels for a set of example tweets. Although this code is relatively simple, it demonstrates the foundational steps of sentiment analysis using NLP and machine learning. This project demonstrates my knowledge in NLP, data preprocessing, feature extraction, and machine learning techniques.
 
-### 5. Data Visualization with Tableau
+- **Skills:** Natural Language Processing (spaCy), Data Preprocessing, Feature Extraction, Machine Learning (SVM, Random Forest), Model Evaluation
 
-I created interactive data visualizations using Tableau to showcase key insights from a retail dataset. Through visual storytelling, I effectively communicated trends and patterns to both technical and non-technical audiences. This project highlights my data visualization skills and ability to convey complex information in an engaging manner.
+## Conclusion
 
-- **Skills:** Data Visualization, Tableau, Storytelling
-
-Thank you for visiting my portfolio. I'm excited about the opportunity to contribute my skills and expertise to data-driven projects and to continue learning and growing in the field of Data Science. If you have any questions or would like to collaborate, please don't hesitate to get in touch!
+Thank you for visiting my portfolio! These projects reflect my dedication to exploring data, solving complex problems, and deriving valuable insights. As I continue on my data science journey, I look forward to contributing to projects that have a positive impact and learning from new challenges. If you'd like to collaborate or learn more about my work, please don't hesitate to reach out.
 
 ## License
 
