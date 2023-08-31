@@ -12,13 +12,15 @@ from sklearn.feature_extraction.text import CountVectorizer
 # Load English pipeline
 nlp = spacy.load('en_core_web_md')
 
-# Load your dataset from CSV and remove rows with missing values
+# Load the dataset from CSV and remove rows with missing values
+# Source: https://www.kaggle.com/datasets/kazanova/sentiment140
+# This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the Twitter API.
 data = pd.read_csv('Twitter_Data_024.csv', names=["target", "ids", "date", "flag", "user", "TweetText"], encoding='latin-1')
 data.drop(['ids','date','flag','user'], axis = 1, inplace = True)
 data.columns = ['label', 'tweet']
 data.dropna(subset = ['tweet', 'label'], inplace=True)
 
-# Define a mapping of sentiment labels
+# Define a mapping of sentiment labels (0 = negative, 2 = neutral, 4 = positive)
 sentiment_mapping = {
     4: 'positive',
     2: 'neutral',
